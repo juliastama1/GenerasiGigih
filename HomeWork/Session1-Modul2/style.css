@@ -1,0 +1,12 @@
+.playlist {
+  width: 200px;
+  padding: 10px;
+  margin-left: 0px;
+  margin-bottom: 10px;
+  border: 2px solid black;
+}
+img {
+  width: 200px;
+  display: block;
+  margin: auto;
+}
